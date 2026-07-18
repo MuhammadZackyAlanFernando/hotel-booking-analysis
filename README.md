@@ -58,16 +58,16 @@ Tingkat pembatalan booking yang terus meningkat dari tahun ke tahun menjadi tant
 ```
 hotel-booking-analysis/
 │
-├── hotel_booking_analysis.ipynb   # Notebook utama
+├── hotel_booking_analysis.ipynb   
 │
 ├── data/
-│   ├── hotel_bookings_clean.csv   # Data setelah cleaning
-│   └── README.md                  # Keterangan dataset
+│   ├── hotel_bookings_clean.csv  
+│   └── README.md                 
 │
 ├── img/
-│   ├── cancellation_trend.png     # Grafik B1 - Tren Waktu
-│   ├── b2_channel_analysis.png    # Grafik B2 - Channel Pemesanan
-│   └── b3_customer_profile.png    # Grafik B3 - Profil Tamu
+│   ├── b1_cancellation_trend.png     
+│   ├── b2_channel_analysis.png    
+│   └── b3_customer_profile.png   
 │
 └── README.md
 ```
